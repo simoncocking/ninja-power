@@ -1,0 +1,11 @@
+{
+  "name": "power",
+  "version": "0.0.1",
+  "description": "Ninja Blocks driver to display battery charge and PV yield on the dashboard",
+  "main": "index.js",
+  "scripts": {
+    "test": "test.js"
+  },
+  "author": "Simon Cocking",
+  "license": "MIT"
+}
